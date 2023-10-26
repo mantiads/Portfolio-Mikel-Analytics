@@ -1,5 +1,4 @@
-# Portfolio-Mikel-Analytics
-Proyecto de Analisis de datos 1
+# Proyecto Data Analytics
 
 Iniciamos el analisis poniendo el foco en el número de clientes que hay en cada una de las particiones para ver la evolución a lo largo de las 17 particiones. Lo primero que nos llama la antención es el incremento que hay el mes de julio, seguido por los 4 siguientes meses, así como el número de bajas del mes de Enero 2019.
 

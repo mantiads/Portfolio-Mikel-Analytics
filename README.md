@@ -19,7 +19,7 @@ Iniciamos el analisis poniendo el foco en el número de clientes que hay en cada
 </p>
 
 <p align="center">
-<img src="/images/6_zoom_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="400">
+<img src="/images/6_zoom_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="500">
 </p>
  
 <p align="center">

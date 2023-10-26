@@ -18,14 +18,21 @@ Iniciamos el analisis poniendo el foco en el número de clientes que hay en cada
 <img src="/images/5_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="800">
 </p>
 
-
-<img src="/images/6_zoom_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled">
-
+<p align="center">
+<img src="/images/6_zoom_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="400">
+</p>
+ 
+<p align="center">
 <img src="/images/7_tendencia_prod_al_alta.png" alt="Analisis AVProductInstalled">
+</p>
 
+<p align="center">
 <img src="/images/8_evolucion_contratos_particiones.png" alt="Analisis AVProductInstalled">
+</p>
 
+<p align="center">
 <img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
+</p>
 
 
 

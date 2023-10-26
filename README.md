@@ -24,7 +24,9 @@ Dejando a un lado las altas no contratan ninguno de los productos, podemos ver c
 <p align="center">
 <img src="/images/5_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="800">
 </p>
-
+<p align="center">
+<img src="/images/6_zoom_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="500">
+</p>
 
 Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las sigueintes conclusiones:
 - Los depsoitos han perdido popularidad a la hora de darse de alta. Podemos ver como el short_term_deposit no se ha contratado en los últimos 6 meses al darse de alta y la bajada del long_term_deposit, deonde en los tres ultimos meses a penas hay contrataciones,
@@ -34,9 +36,7 @@ Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las
 - 
 
 
-<p align="center">
-<img src="/images/6_zoom_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="500">
-</p>
+
  
 <p align="center">
 <img src="/images/7_tendencia_prod_al_alta.png" alt="Analisis AVProductInstalled">

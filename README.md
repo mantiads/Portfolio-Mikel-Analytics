@@ -37,7 +37,7 @@ Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las
 - em_account es la protagonista de este negocio, en los meses de Julio a noviembre ha habido una explosión de contrataciones al darse de alta.
 
 
-
+Pasamos a analizar a la cantidad de productos que hay contratados en cada una de las particiones para comprender la base del negocio.
  
 <p align="center">
 <img src="/images/7_tendencia_prod_al_alta.png" alt="Analisis AVProductInstalled">

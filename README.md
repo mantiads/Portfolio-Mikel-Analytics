@@ -57,7 +57,7 @@ Pasamos a analizar a la cantidad de productos que hay contratados en cada una de
 </p>
 
 
-Pasamos a analizar ahora la situación en la última de las particiones (situación actual).
+Pasamos a analizar ahora el perfil de los clientes en la última de las particiones (situación actual) para finalizar con un análisis de las relaciones mas fuertes entre los productos contratados.
 
 <p align="center">
 <img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
@@ -65,5 +65,3 @@ Pasamos a analizar ahora la situación en la última de las particiones (situaci
 
 
 
-
-Tras un primer análisis de la evolución de clientes en las 17 particiones, , observamos un gran incremento de clientes en el mes de Julio incremento de clientes los primeros seis mesesconstante, sin embargo en el mes de Julio hau un incr 

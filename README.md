@@ -19,10 +19,8 @@ Entendemos que se lanzó una campaña de captación de clientes potenciales para
   <img src="/images/4_altas_por_total_prod_contr.png" alt="Análisis AVProductInstalled" width="400">
 </p>
 
+Dejando a un lado las altas no contratan ninguno de los productos, podemos ver como desde los meses de Julio a Noviembre ha habido mayor cantidad de contratación de productos al darse de alta. Entre el 90 y 95% de las nuevas incorporaciones con contratacion la hacen contratando unicamente un producto. Como ya hemos avanzado anteriormente el producto mayormente contratado al darse de alta es el em_acount.
 
-
-
-Dejando a un lado las altas no contratan ninguno de los productos, podemos ver como desde los meses de Julio a Noviembre ha habido mayor cantidad de contratacion de productos al darse de alta. entre el 90 y 95% de las nuevas indorporaciones con contratacion la hacen contratando unicamente un producto, que como ya hemos avanzado anteriormente el producto mayormente contratado al darse de alta es el em_acount.
 
 Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las sigueintes conclusiones:
 - Los depsoitos han perdido popularidad a la hora de darse de alta. Podemos ver como el short_term_deposit no se ha contratado en los últimos 6 meses al darse de alta y la bajada del long_term_deposit, deonde en los tres ultimos meses a penas hay contrataciones,

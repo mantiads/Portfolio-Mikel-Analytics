@@ -43,7 +43,14 @@ Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las
 <img src="/images/7_tendencia_prod_al_alta.png" alt="Analisis AVProductInstalled">
 </p>
 
-Pasamos a analizar a la cantidad de productos que hay contratados en cada una de las particiones para comprender la base del negocio.
+Pasamos a analizar a la cantidad de productos que hay contratados en cada una de las particiones para comprender la base del negocio. Observamos que el comportamiento en distinto al mostrado al darse de alta en la compañía:
+- Hay porductos a los cuales hay que dar una vuelta y ver porque no se están comercializando o son muy poco vendidos. Estamos hablando de loans, mortage, em_account_pp y em_account_p
+- short_term_deposit ha pasado a ser un producto que no contratan nuestros clientes, habría que revisar la rentabilidad del producto y analizar el mercado de este producto para ver donde se han ido estos fondos.
+- long_term_deposit sigue siendo un producto contratado aunque en los ultimos 5 mese no ha dejado de bajar su contratacion.
+- funds han ido ganando contrataciones, aunque lleva los ultimos 6 meses atascado en las 1300 contrataciones
+- securities ha aumentado, es posible que los clueinte de los short term_deposit estén pasando sus fondos a este producto
+- Los productos credit_card, payroll, payroll_account, pension_plan, emc_account y debit_card llevan todas ellas un crecimiento sostenido casi duplicando su contratacion a lo largo de las 17 particiones.
+- La estrella del juego, em_acount disparó sus contrataciones desde el mes de Julio hasta Noviembre, donde parece que se está asentando. El 60% de los clientes en la ultoima partición tiene este producto.
 
 <p align="center">
 <img src="/images/8_evolucion_contratos_particiones.png" alt="Analisis AVProductInstalled">

@@ -31,9 +31,10 @@ Dejando a un lado las altas no contratan ninguno de los productos, podemos ver c
 Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las sigueintes conclusiones:
 - Los depsoitos han perdido popularidad a la hora de darse de alta. Podemos ver como el short_term_deposit no se ha contratado en los últimos 6 meses al darse de alta y la bajada del long_term_deposit, deonde en los tres ultimos meses a penas hay contrataciones,
 - Hay productos que nunca se han contratado al darse de alta (em_account_pp, em_account_p y mortage) y otros que a penas se han contratado (loans, funds, securities y emc_account)
-- long_ter,_deposit
-
-- 
+- Hay una tendencia a la baja de los productos payroll, pension_plan y payroll_account, mostrando un comportamiento identico el payroll y el pension_plan (deben de ser productos que se contratan a la par)
+- Las contrataciones de la credit_card caen hasta ser algo insignificante
+- La debit_card tambien muestra una ligera tendencia descendente en las contrataciones al alta.
+- em_account es la protagonista de este negocio, en los meses de Julio a noviembre ha habido una explosión de contrataciones al darse de alta.
 
 
 

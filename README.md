@@ -15,7 +15,7 @@ Iniciamos el analisis poniendo el foco en el número de clientes que hay en cada
 </p>
 
 <p align="center">
-<img src="/images/5_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="700">
+<img src="/images/5_analisis_prod_contratados_al_alta.png" alt="Analisis AVProductInstalled" width="800">
 </p>
 
 

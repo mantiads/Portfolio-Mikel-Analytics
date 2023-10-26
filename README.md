@@ -56,6 +56,9 @@ Pasamos a analizar a la cantidad de productos que hay contratados en cada una de
 <img src="/images/8_evolucion_contratos_particiones.png" alt="Analisis AVProductInstalled">
 </p>
 
+
+Pasamos a analizar ahora la situación en la última de las particiones (situación actual).
+
 <p align="center">
 <img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
 </p>

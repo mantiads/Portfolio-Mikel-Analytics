@@ -5,9 +5,9 @@ Iniciamos el analisis poniendo el foco en el número de clientes que hay en cada
 
 <table>
   <tr>
-    <td><img src="/imges/1_conteo_clientes_particion.png" alt="Analisis AVProductInstalled"></td>
-    <td><img src="/imges/3_ganados_vs_perdidos.png" alt="Analisis AVProductInstalled"></td>
-    <td><img src="/imges/9_perdidos.png" alt="Analisis AVProductInstalled"></td>
+    <td><img src="/images/1_conteo_clientes_particion.png" alt="Analisis AVProductInstalled"></td>
+    <td><img src="/images/3_ganados_vs_perdidos.png" alt="Analisis AVProductInstalled"></td>
+    <td><img src="/images/9_perdidos.png" alt="Analisis AVProductInstalled"></td>
   </tr>
 </table>
 

@@ -86,12 +86,13 @@ Entrando en una mayor granularidad con respedto al analisis anterior, vemos como
 <img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
 
-Con respecto al salario, siendo este el conjunto de la unidad familiar, la mayoria se encuentran entre los 30K y 90K.
+Con respecto al salario, siendo este el indicador de los ingresos de la unidad familiar, la mayoria se encuentran entre los 30K y 90K.
 
 <p align="center">
 <img src="/images/15_salario.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
 
+Analizando el entry_chanel, de los 64 canales de entrada de los que dispone la empresa, el 44% de los clientes entran por un único canal y de manera acumulada el 95% del todas de clientes entran por 7 canales.
 <p align="center">
 <img src="/images/19_entry_channel_treemap.png" alt="Analisis AVProductInstalled">
 </p>

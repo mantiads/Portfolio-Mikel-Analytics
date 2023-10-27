@@ -12,11 +12,12 @@ Pasamos a analizar a la cantidad de productos que hay contratados en cada una de
 - Resaltamos la bajada en Enero de 2019 de la pareja payroll/pension_plan.
 - La estrella del juego, em_acount disparó sus contrataciones desde el mes de Julio hasta Noviembre, donde parece que se está asentando. El 60% de los clientes en la ultoima partición tiene este producto.
 
+En un siguiente paso debemos de analizar la evoluión de cada producto con respecto a los distintos patrones socio-demograficos de los que disponemos para identificar patrones y tendencias.
 <p align="center">
 <img src="/images/8_evolucion_contratos_particiones.png" alt="Analisis AVProductInstalled">
 </p>
 
-## Análisis tipología clientes última imagen.
+## Análisis socio-demografico.
 Pasamos a analizar ahora el perfil de los clientes en la última de las particiones (situación actual) para finalizar con un análisis de las relaciones mas fuertes entre los productos contratados.
 
 A nivel de comunidad autonoma, la mayoria de clientes son de Madrid, seguidos de Andalucia y Cataluña, mentras que las ciudades con mas clientes son Madrid, Barcelona, Valencia y Murcia.

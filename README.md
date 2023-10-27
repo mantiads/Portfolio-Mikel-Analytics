@@ -50,6 +50,7 @@ Pasamos a analizar a la cantidad de productos que hay contratados en cada una de
 - funds han ido ganando contrataciones, aunque lleva los ultimos 6 meses atascado en las 1300 contrataciones
 - securities ha aumentado, es posible que los clueinte de los short term_deposit estén pasando sus fondos a este producto
 - Los productos credit_card, payroll, payroll_account, pension_plan, emc_account y debit_card llevan todas ellas un crecimiento sostenido casi duplicando su contratacion a lo largo de las 17 particiones.
+- Resaltamos la bajada en Enero de 2019 de la pareja payroll/pension_plan.
 - La estrella del juego, em_acount disparó sus contrataciones desde el mes de Julio hasta Noviembre, donde parece que se está asentando. El 60% de los clientes en la ultoima partición tiene este producto.
 
 <p align="center">

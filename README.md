@@ -71,29 +71,29 @@ A nivel de segmentos, observamos que la mayoria de clientes son Universitarios, 
 <img src="/images/11_segment.png" alt="Analisis AVProductInstalled" width="500">
 </p>
 
-<p align="center">
-<img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"  width="500">
-</p>
 
-  
-<p align="center">
-<img src="/images/12_genero.png" alt="Analisis AVProductInstalled"  width="500">
-</p>
+A nivel de genero vemos que está bastante igualada la distribución de los clientes. Con respecto a la edad la mayoria están entre 20 y 25 años, lo que concuerda con la distribución por segmentos.
+<table>
+  <tr>
+    <td><img src="/images/12_genero.png" alt="Analisis AVProductInstalled" ></td>
+    <td><img src="/images/13_edad.png" alt="Analisis AVProductInstalled" ></td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="/images/13_edad.png" alt="Analisis AVProductInstalled"  width="500">
-</p>
+Entrando en una mayor granularidad con respedto al analisis anterior, vemos como hay mayoria de mujeres en edades entre 20 y 30 años mientras que ocurre lo contrario en la edades comprendidas entre 30 y 65 años.
 
 <p align="center">
 <img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
+
+Con respecto al salario, siendo este el conjunto de la unidad familiar, la mayoria se encuentran entre los 30K y 90K.
 
 <p align="center">
 <img src="/images/15_salario.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
 
 <p align="center">
-<img src="/images/19_entry_channel_treemap.png" alt="Analisis AVProductInstalled"  width="500">
+<img src="/images/19_entry_channel_treemap.png" alt="Analisis AVProductInstalled">
 </p>
 
 

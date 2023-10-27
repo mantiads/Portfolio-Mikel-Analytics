@@ -66,9 +66,11 @@ A nivel de comunidad autonoma, la mayoria de clientes son de Madrid, seguidos de
 <img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
 </p>
 
+A nivel de segmentos, observamos que la mayoria de clientes son Universitarios, seguido de particulares. Los clientes TOP representan menos del 2% de los clientes
 <p align="center">
 <img src="/images/11_segment.png" alt="Analisis AVProductInstalled">
 </p>
+
 
 <table>
   <tr>

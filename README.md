@@ -75,7 +75,7 @@ Pasamos a analizar ahora el perfil de los clientes en la última de las particio
   </tr>
 
 <p align="center">
-<td><img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"></td>
+<img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
 
   

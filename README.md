@@ -18,21 +18,9 @@ En un siguiente paso debemos de analizar la evoluión de cada producto con respe
 </p>
 
 ## Análisis socio-demografico.
-Pasamos a analizar ahora el perfil de los clientes en la última de las particiones (situación actual) para finalizar con un análisis de las relaciones mas fuertes entre los productos contratados.
+Pasamos a analizar ahora el perfil de los clientes en la última de las particiones (situación actual).
 
-A nivel de comunidad autonoma, la mayoria de clientes son de Madrid, seguidos de Andalucia y Cataluña, mentras que las ciudades con mas clientes son Madrid, Barcelona, Valencia y Murcia.
-
-<p align="center">
-<img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
-</p>
-
-A nivel de segmentos, observamos que la mayoria de clientes son Universitarios, seguido de particulares. Los clientes TOP representan menos del 2% de los clientes
-<p align="center">
-<img src="/images/11_segment.png" alt="Analisis AVProductInstalled" width="500">
-</p>
-
-
-A nivel de genero vemos que está bastante igualada la distribución de los clientes. Con respecto a la edad la mayoria están entre 20 y 25 años, lo que concuerda con la distribución por segmentos.
+A nivel de genero vemos que está bastante igualada la distribución de los clientes. Con respecto a la edad la mayoria están entre 20 y 25 años.
 <table>
   <tr>
     <td><img src="/images/12_genero.png" alt="Analisis AVProductInstalled" ></td>
@@ -46,10 +34,21 @@ Entrando en una mayor granularidad con respedto al analisis anterior, vemos como
 <img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
 
+A nivel de segmentos, observamos que la mayoria de clientes son Universitarios (lo que concuerda con el analisis de la distribución de edad), seguido de Particulares. Los clientes TOP representan menos del 2% de los clientes
+<p align="center">
+<img src="/images/11_segment.png" alt="Analisis AVProductInstalled" width="500">
+</p>
+
 Con respecto al salario, siendo este el indicador de los ingresos de la unidad familiar, la mayoria se encuentran entre los 30K y 90K.
 
 <p align="center">
 <img src="/images/15_salario.png" alt="Analisis AVProductInstalled"  width="500">
+</p>
+
+A nivel de comunidad autonoma, la mayoria de clientes son de Madrid, seguidos de Andalucia y Cataluña, mientras que las ciudades con mas clientes son Madrid, Barcelona, Valencia y Murcia.
+
+<p align="center">
+<img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
 </p>
 
 Analizando el entry_chanel, de los 64 canales de entrada de los que dispone la empresa, el 44% de los clientes entran por un único canal y de manera acumulada el 95% del todas de clientes entran por 7 canales.

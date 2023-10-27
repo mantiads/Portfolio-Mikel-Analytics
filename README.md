@@ -5,7 +5,7 @@
 Comenzamos analizando la evolución en la contratación de los productos comercializados a traves de las 17 distintas particiones (periodo mensual). 
 - Hay productos a los cuales hay que dar una vuelta y ver porque no se están comercializando o son muy poco vendidos. Estamos hablando de loans, mortage, em_account_pp y em_account_p.
 - Entre el segundo grupo de productos menos demandados nos encontramos con funds y securities.
-    -  funds aumento contrataciones durante todo el 2018, aunque lleva los ultimos 6 meses atascado en las 1300 contrataciones
+    -  funds aumento contrataciones durante todo el 2018, aunque lleva los ultimos 6 meses atascado en las 1300 contrataciones.
     -  securities muestra un rápido crecimiento, aunque lleva los últimos 3 meses con signos de ralentecimiento.
 - Al fijarnos en los depositos, vemos como se ha ido rebajando su contratación.
     - Los short_term_deposit comenzaron a perder contrataciones a finales del 2018, desapareciendo por completo a principios del 2019.
@@ -37,7 +37,7 @@ Entrando en una mayor granularidad con respecto al análisis anterior, vemos com
 <img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"  width="500">
 </p>
 
-A nivel de segmentos, la mayoría de clientes son Universitarios (lo que concuerda con el análisis de la distribución de edad), seguido de Particulares. Los clientes TOP representan menos del 2% de los clientes
+A nivel de segmentos, la mayoría de clientes son Universitarios (lo que concuerda con el análisis de la distribución de edad), seguido de Particulares. Los clientes TOP representan menos del 2% de los clientes.
 <p align="center">
 <img src="/images/11_segment.png" alt="Analisis AVProductInstalled" width="500">
 </p>
@@ -92,9 +92,9 @@ Eliminado del analisis las altas que no contratan ninguno de los productos, pode
 
 Al pasar a ver la evolucion o popularidad de productos al alta podemos sacar las sigueintes conclusiones:
 - Los depositos han perdido popularidad a la hora de darse de alta. Podemos ver como el short_term_deposit no se ha contratado en los últimos 6 meses al darse de alta y la bajada del long_term_deposit, donde en los tres ultimos meses a penas hay contrataciones.
-- Hay productos que nunca se han contratado al darse de alta (em_account_pp, em_account_p, mortage y loans) y otros que a penas se han contratado (funds, securities y emc_account)
-- Hay una tendencia a la baja de los productos payroll, pension_plan y payroll_account, mostrando un comportamiento identico el payroll y el pension_plan (deben de ser productos que se contratan a la par)
-- Las contrataciones de la credit_card caen hasta ser algo insignificante
+- Hay productos que nunca se han contratado al darse de alta (em_account_pp, em_account_p, mortage y loans) y otros que a penas se han contratado (funds, securities y emc_account).
+- Hay una tendencia a la baja de los productos payroll, pension_plan y payroll_account, mostrando un comportamiento identico el payroll y el pension_plan (deben de ser productos que se contratan a la par).
+- Las contrataciones de la credit_card caen hasta ser algo insignificante.
 - La debit_card tambien muestra una ligera tendencia descendente en las contrataciones al alta.
 - em_account es la protagonista de este negocio, en los meses de Julio a Noviembre ha habido una explosión de contrataciones al darse de alta, manteniendo a lo largo del tiempo una tendencia estable.
 

@@ -60,6 +60,8 @@ Pasamos a analizar a la cantidad de productos que hay contratados en cada una de
 
 Pasamos a analizar ahora el perfil de los clientes en la última de las particiones (situación actual) para finalizar con un análisis de las relaciones mas fuertes entre los productos contratados.
 
+A nivel de comunidad autonoma, la mayoria de clientes son de Madrid, seguidos de Andalucia y Cataluña, mentras que las ciudades con mas clientes son Madrid, Barcelona, Valencia y Murcia.
+
 <p align="center">
 <img src="/images/10_dist_geo_treemap.png" alt="Analisis AVProductInstalled">
 </p>

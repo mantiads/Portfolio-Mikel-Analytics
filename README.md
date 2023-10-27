@@ -1,6 +1,6 @@
 # Proyecto Data Analytics Fintech (En desarrollo...)
 
-## Análisis negocio.
+## Análisis evolución productos comercializados.
 
 Pasamos a analizar a la cantidad de productos que hay contratados en cada una de las particiones para comprender la base del negocio. Observamos que el comportamiento en distinto al mostrado al darse de alta en la compañía:
 - Hay porductos a los cuales hay que dar una vuelta y ver porque no se están comercializando o son muy poco vendidos. Estamos hablando de loans, mortage, em_account_pp y em_account_p

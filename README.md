@@ -68,6 +68,14 @@ Pasamos a analizar ahora el perfil de los clientes en la última de las particio
 <img src="/images/11_segment.png" alt="Analisis AVProductInstalled">
 </p>
 
+<table>
+  <tr>
+    <td><img src="/images/12_genero.png" alt="Analisis AVProductInstalled"></td>
+    <td><img src="/images/13_edad.png" alt="Analisis AVProductInstalled"></td>
+    <td><img src="/images/14_piramide.png" alt="Analisis AVProductInstalled"></td>
+  </tr>
+
+  
 <p align="center">
 <img src="/images/12_genero.png" alt="Analisis AVProductInstalled">
 </p>

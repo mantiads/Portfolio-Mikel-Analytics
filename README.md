@@ -1,4 +1,6 @@
-# Proyecto Data Analytics Fintech (En desarrollo...)
+# <p align="center">Proyecto Data Analytics Fintech</p>
+
+[Acceso a archivo Jupyter.](https://github.com/mantiads/Portfolio-Mikel-Analytics/blob/main/Codigo_analisis.ipynb)
 
 ## Análisis evolución productos comercializados.
 
